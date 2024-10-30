@@ -29,6 +29,7 @@ To learn more, take a look at my blog post: https://diamond-bovid-ab4.notion.sit
 <img width="500"  src= "https://github.com/user-attachments/assets/784b5d67-d500-488a-9bd9-5c3ea9a5796d">
 
 ## Code 
+![PenguinGame-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5cdbf852-0f9f-4d90-9211-7ad932ac6242)
 
 ## Enclosure
 ![IMG_6869-ezgif com-video-to-gif-converter-2](https://github.com/user-attachments/assets/68a963f4-1d59-47e0-806a-897705147117)

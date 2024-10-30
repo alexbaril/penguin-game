@@ -8,4 +8,12 @@ To learn more, take a look at my blog post: https://diamond-bovid-ab4.notion.sit
 - [Button](https://www.aliexpress.us/item/3256806107122384.html?spm=a2g0o.order_list.order_list_main.47.21ef1802q6HtRj&gatewayAdapt=glo2usa#nav-specification)
 - [Potentiometer](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-09806/7319606?s=N4IgTCBcDaIMIHkCyBaADATgBxoGwgF0BfIA)
 - Breadboard
-- 
+- M-M Header Pins
+- Wires
+- Heatshrink
+- [M3 Heatset Inserts](https://www.adafruit.com/product/4255)
+- M3 Phillips Pan Screws
+- 3/4 Inch Felt Furniture Pads
+- Hot Glue
+- Tape
+- Solder

@@ -25,7 +25,7 @@ To learn more, take a look at my blog post: https://diamond-bovid-ab4.notion.sit
 
 1. Follow the Fritzing diagram above when wiring the components. 
 
-2. Before attaching the joystick, button, and potentiometer to the breadboard, you should solder extension wires and M-M header pins to the components. This is so that they can easily be attached to the penguin enclosure. I would also recommend adding tape every about half inch so that they do not get tangled. 
+2. Before attaching the joystick, button, and potentiometer to the breadboard, you should solder extension wires and M-M header pins to the components. I would also recommend using heatshrink over these new connections to strengthen them. This is so that they can easily be attached to the penguin enclosure. I would also recommend adding tape every about half inch so that they do not get tangled. 
 <img width="500"  src= "https://github.com/user-attachments/assets/784b5d67-d500-488a-9bd9-5c3ea9a5796d">
 
 ## Code 

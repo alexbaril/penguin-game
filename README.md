@@ -18,6 +18,8 @@ To learn more, take a look at my blog post: https://diamond-bovid-ab4.notion.sit
 - Hot Glue
 - Tape
 - Solder
+- 1/8 Inch Wood
+- 3D Printer Filament 
 
 # **Instructions**
 ## Breadboarding
@@ -31,6 +33,22 @@ To learn more, take a look at my blog post: https://diamond-bovid-ab4.notion.sit
 ## Code 
 ![PenguinGame-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5cdbf852-0f9f-4d90-9211-7ad932ac6242)
 
+1. Download the penguin.ino file from the Arduino-Code folder. Upload this program onto your ESP32.
+   
+2. Download the files from the Processing-Game-Code folder. Note you may have to change line 34 in Main_Game.pde so that it reflects the correct port name for your ESP32. Run the game from Main_Game.pde.
+
 ## Enclosure
 ![IMG_6869-ezgif com-video-to-gif-converter-2](https://github.com/user-attachments/assets/68a963f4-1d59-47e0-806a-897705147117)
+
+1. To create the enclosure, you will use both a laser cutter and 3D printer. Begin by downloading the 3 files from the Enclosure-Files folder.
+
+2. To laser cut the penguin body, use a piece of 1/8 inch wood and the Penguin Laser Cut.svg file.
+   
+3. To create the joystick enclosure, 3D print the Joystick-enclosure-bottom.stl and Joystick-enclosure-top.stl files. This should take about 2.5 hours.
+   
+4. Install the heatset inserts into the bottom of the joystick enclosure. Screw the joystick into the bottom of the enclosure. Then screw the top of the enclosure to the bottom.
+
+5. Now is time to bring the penguin to life. Place the potentiometer into the square hole and the button into the circular hole. Make sure to have the wires coming out of the back side. I used hot glue to secure the potentiometer in place and tape for the button. Add to the back side of the penguin body felt pads so that the enclosure is level. I used two 3/4 inch felt pads on top of each other to get the desired height. Lastly, hot glue the bottom of the joystick enclosure to the stomach of the penguin. 
+
+<img width="500"  src= "https://github.com/user-attachments/assets/5b382172-6253-493f-bdd4-d96299fb73a7">
 
